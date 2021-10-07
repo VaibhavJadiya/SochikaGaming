@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1084584223311",
+    "project_id": "creditcover-16a67",
+    "storage_bucket": "creditcover-16a67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084584223311:android:b9a0556b951f1da59bc03a",
+        "android_client_info": {
+          "package_name": "com.credit.backup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084584223311-psqshd3l6v0t4a6a1aksbn953j5bbm6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.credit.backup",
+            "certificate_hash": "112de3ccc95c1f95651e7de4a25c7460adb4c23c"
+          }
+        },
+        {
+          "client_id": "1084584223311-eb210f28dtl8rvib2miq7cojfdu0pnac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLO5FQJJd2Ynnm4D39hsUu5Ep6-dtGdhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084584223311-eb210f28dtl8rvib2miq7cojfdu0pnac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
